@@ -5,7 +5,8 @@
         public static void Main(String[] args) 
         {
             //VowelorConsonants.Alphabets();
-            LargestNumber.Largestnum();
+            //LargestNumber.Largestnum();
+            QuotientRemainder.QRemainder();
         }
     }
 }
