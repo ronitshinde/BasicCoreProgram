@@ -8,8 +8,8 @@
             //LargestNumber.Largestnum();
             //QuotientRemainder.QRemainder();
             //SwipeNumbers.SwipeNum();
-            EvenOddNumber.EvensOdds();
-        
+            //EvenOddNumber.EvensOdds();
+            FlipCoins.Coinsflip();
         }
     }
 }
