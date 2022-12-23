@@ -7,7 +7,9 @@
             //VowelorConsonants.Alphabets();
             //LargestNumber.Largestnum();
             //QuotientRemainder.QRemainder();
-            SwipeNumbers.SwipeNum();
+            //SwipeNumbers.SwipeNum();
+            EvenOddNumber.EvensOdds();
+        
         }
     }
 }
