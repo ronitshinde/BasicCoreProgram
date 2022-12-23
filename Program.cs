@@ -6,7 +6,8 @@
         {
             //VowelorConsonants.Alphabets();
             //LargestNumber.Largestnum();
-            QuotientRemainder.QRemainder();
+            //QuotientRemainder.QRemainder();
+            SwipeNumbers.SwipeNum();
         }
     }
 }
