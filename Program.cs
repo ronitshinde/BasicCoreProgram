@@ -10,7 +10,8 @@
             //SwipeNumbers.SwipeNum();
             //EvenOddNumber.EvensOdds();
             //FlipCoins.Coinsflip();
-            LeapYear.Knowleapyear();
+            //LeapYear.Knowleapyear();
+            Powerof2.CheckPower();      
         }
     }
 }
