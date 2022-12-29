@@ -9,7 +9,8 @@
             //QuotientRemainder.QRemainder();
             //SwipeNumbers.SwipeNum();
             //EvenOddNumber.EvensOdds();
-            FlipCoins.Coinsflip();
+            //FlipCoins.Coinsflip();
+            LeapYear.Knowleapyear();
         }
     }
 }
